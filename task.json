@@ -1,0 +1,46 @@
+{
+  "student": {
+    "name": "Oleg",
+    "surname": "Kulyniy",
+    "date of birth": "1978",
+    "sex": "male",
+    "address": {
+      "country": "Ukraine",
+      "city": "Lviv",
+      "street": "Naukova str.",
+      "house": "33",
+      "flat": "22"
+    },
+    "email": ["BHG@gmail.com", true],
+    "required documents": {
+      "passport": {
+        "number": "45678765",
+        "authority": "2601",
+        "date of issue": "11.11.2020",
+        "date of expiry": "11.11.2030"
+      },
+      "middle school diploma": {
+        "number": "45798766BH",
+        "number of school": "34",
+        "graduation date": "04.06.2020"
+      }
+    },
+    "personal  characteristics": ["leader", "analytical thinking", "friendly"],
+    "scholarship": "2000 UAH",
+    "list of subjects": {
+      "general": [
+        "Maths",
+        "English",
+        "Physics",
+        "Chemistry",
+        "Ukrainian",
+        "Programming",
+        "Economical sciences",
+        "Ecological sciences",
+        "Computer architecture",
+        "Physical education"
+      ],
+      "recent": ["Maths", "English", "Physics", "Chemistry"]
+    }
+  }
+}
