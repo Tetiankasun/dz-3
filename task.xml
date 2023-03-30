@@ -1,0 +1,33 @@
+<?xml version = “1.0” encoding =“UTF-8”>
+<student>
+   <name>Oleg</name>
+   <surname>Kulyniy</surname>
+   <date of birth>1978</date of birth>
+   <sex>male</sex>
+   <address> 
+         <country>Ukraine</country>
+         <city>Lviv</city>
+         <street>Naukova str</street> 
+         <house>33</house>
+         <flat>22</flat>
+   </address>
+   <email>BHG@gmail.com</email>
+   <required documents>
+         <passport>
+               <number>45678765</number>
+               <authority>2601</authority>
+               <date of issue>11.11.2020</date of issue>
+               <date of expiry>11.11.2030</date of expiry>
+         </passport>
+         <middle school diploma>
+               <number>45798766BH</number>
+               <number of school>34</number of school> 
+               <graduation date>04.06.2020</graduation date>
+         </middle school diploma>
+   </required documents>
+   <rating position>2</rating>
+   <scholarship currency=UAH>2000</scholarship>
+   <number of subjects>10</number>
+   
+
+</student>
